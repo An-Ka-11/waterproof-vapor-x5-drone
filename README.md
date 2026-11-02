@@ -14,14 +14,26 @@ What I Did:
 4. To ensure durability, coated the high voltage wires (motor wires and main power lead pads) with liquid electrical tape.
 ![Close-Up After](./photos/IMG_1577.HEIC)
 
+Because this is a chemical waterproofing modification rather than a custom CAD or PCB design, there are no 3D designs or wiring diagram files. All modification step-by-step teardown, prep, and coating are documented fully through high-resolution photos located in the /photos folder of this repo.
 
-Bill of Materials - Stock Vapor X5 Waterproofing Project
+Bill of Materials - Stock Vapor X5 Waterproofing Project:
 
-Base Hardware: Drone: Vapor X5 6S Analog Version FPV Drone
+Base Hardware (Drone used but any drone will do): 
+Vapor X5 6S Analog Version FPV Drone (https://geprc.com/product/geprc-vapor-x5-analog-freestyle-fpv-drone/)
 
-Preparation and Waterproofing Materials: Isopropyl Alcohol: Used for cleaning PCBs from flux and other grit. Silicone Conformal Coating: For general waterproofing of all boards. Liquid Electrical Tape: On high power joints to provide even more protection.
+Preparation and Waterproofing Materials: 
+Isopropyl Alcohol: Used for cleaning PCBs from flux and other grit (no more puretronics but https://www.microcenter.com/product/601362/mg-chemicals-isopropyl-alcohol-42-oz). 
+Silicone Conformal Coating: For general waterproofing of all boards (https://newbeedrone.com/collections/all/products/newbeedrone-no-big-deal-conformal-coating). 
+Liquid Electrical Tape: On high power joints to provide even more protection (https://www.aliexpress.us/item/3256807917032543.html?gatewayAdapt=glo2usa4itemAdapt).
 
-Tools Used: Hex screwdrivers Fine tip brush Angled tweezers Soft-bristled toothbrush Soldering iron Solder Solder flux
+Tools Used: 
+Generic Hex screwdrivers 
+Fine tip brush included in the conformal package
+Generic Angled tweezers 
+Generic Soft-bristled toothbrush 
+Pinecil Soldering iron (https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
+Generic Solder 
+Generic Solder flux
 
 
 Guide: 
