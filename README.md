@@ -6,7 +6,7 @@ Modding stock analog BNF FPV Drone to be waterproof
 Why Waterproof?
 Drones usually short-circuit when exposed to moisture or water. By waterproofing this drone can survive impacts into deep snow and submersions into water. 
 
-UPDATE 11/1/26:
+**UPDATE 11/1/26:**
 Receiver was not connecting to controller. After tearing the drone back down found the 5v and GND wires were disconnected. Soldered and coated the wires back.
 ![Receiver Fix](./photos/IMG_2374.png)
 ![Receiver Fix](./photos/IMG_2382.png)
