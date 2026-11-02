@@ -1,0 +1,1 @@
+Because this is a chemical waterproofing modification rather than a custom CAD or PCB design, there are no 3D designs or wiring diagram files. All modification step-by-step teardown, prep, and coating are documented fully through high-resolution photos located in the /photos folder of this repo.
