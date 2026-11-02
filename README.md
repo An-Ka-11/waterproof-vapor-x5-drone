@@ -8,7 +8,7 @@ Drones usually short-circuit when exposed to moisture or water. By waterproofing
 
 UPDATE 11/1/26:
 Receiver was not connecting to controller. After tearing the drone back down found the 5v and GND wires were disconnected. Soldered and coated the wires back.
-![Receiver Fix](./photos/IMG_.png)
+![Receiver Fix](./photos/IMG_2374.png)
 
 Before Coating:
 ![Close-Up Before](./photos/IMG_1571.png)
