@@ -1,4 +1,5 @@
 # waterproof-vapor-x5-drone
+!(photos/
 Modding stock analog BNF FPV Drone to be waterproof
 
 Why Waterproof?
