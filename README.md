@@ -1,12 +1,12 @@
 # waterproof-vapor-x5-drone
-![The Drone](./photos/IMG_1578.HEIC)
+![The Drone](./photos/IMG_1578.png)
 
 Modding stock analog BNF FPV Drone to be waterproof
 
 Why Waterproof?
 Drones usually short-circuit when exposed to moisture or water. By waterproofing this drone can survive impacts into deep snow and submersions into water. 
 
-![Close-Up Before](./photos/IMG_1571.HEIC)
+![Close-Up Before](./photos/IMG_1571.png)
 
 What I Did:
 1. Stripped the drone to the exposed frame and electronics
@@ -14,7 +14,7 @@ What I Did:
 3. Applied two layers of silicone conformal coating to each side of all of the boards.
 4. To ensure durability, coated the high voltage wires (motor wires and main power lead pads) with liquid electrical tape.
 
-![Close-Up After](./photos/IMG_1577.HEIC)
+![Close-Up After](./photos/IMG_1577.png)
 
 Because this is a chemical waterproofing modification rather than a custom CAD or PCB design, there are no 3D designs or wiring diagram files. All modification step-by-step teardown, prep, and coating are documented fully through high-resolution photos located in the /photos folder of this repo.
 
