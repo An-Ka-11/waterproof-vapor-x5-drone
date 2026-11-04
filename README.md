@@ -1,7 +1,7 @@
 # waterproof-vapor-x5-drone
 ![The Drone](./photos/IMG_1578.png)
 
-Modding stock analog BNF FPV Drone to be waterproof
+Modding stock analog BNF FPV Drone to be waterproof. I started with this relatively easy project to get a taste of how to waterproof components to get ready for my completely built from scratch 10 inch fishing drone.
 
 Why Waterproof?
 Drones usually short-circuit when exposed to moisture or water. By waterproofing this drone can survive impacts into deep snow and submersions into water. 
